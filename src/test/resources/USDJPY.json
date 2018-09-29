@@ -1,0 +1,27 @@
+{
+	"status": {
+		"code":200,
+		"message":"Success."
+	},
+	"results": [
+		{
+			"symbol":"^USDJPY",
+			"exchange":"FOREX",
+			"name":"U.S. Dollar\/Japanese Yen",
+			"dayCode":"U",
+			"serverTimestamp":"2018-08-31T00:00:00-05:00",
+			"mode":"i",
+			"lastPrice":111.008,
+			"tradeTimestamp":"2018-08-31T00:00:00-05:00",
+			"netChange":0.034,
+			"percentChange":0.03,
+			"unitCode":"3",
+			"open":110.956,
+			"high":111.128,
+			"low":110.684,
+			"close":111.008,
+			"flag":"s",
+			"volume":13738
+		}
+	]
+}

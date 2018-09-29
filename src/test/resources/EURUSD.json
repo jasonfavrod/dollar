@@ -1,0 +1,26 @@
+{
+	"status": {
+		"code":200,
+		"message":"Success."
+	},
+	"results":[
+		{
+			"symbol":"^EURUSD",
+			"exchange":"FOREX",
+			"name":"Euro Fx\/U.S. Dollar",
+			"dayCode":"U",
+			"serverTimestamp":"2018-08-31T00:00:00-05:00",
+			"mode":"i","lastPrice":1.15985,
+			"tradeTimestamp":"2018-08-31T00:00:00-05:00",
+			"netChange":-0.00693,
+			"percentChange":-0.59,
+			"unitCode":"5",
+			"open":1.1666,
+			"high":1.16896,
+			"low":1.15845,
+			"close":1.15985,
+			"flag":"s",
+			"volume":190
+		}
+	]
+}

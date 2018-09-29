@@ -1,0 +1,26 @@
+{
+	"status": {
+		"code":200,
+		"message":"Success."
+	},"results": [
+		{
+			"symbol":"^USDCAD",
+			"exchange":"FOREX",
+			"name":"U.S. Dollar\/Canadian Dollar",
+			"dayCode":"U",
+			"serverTimestamp":"2018-08-31T00:00:00-05:00",
+			"mode":"i",
+			"lastPrice":1.30337,
+			"tradeTimestamp":"2018-08-31T00:00:00-05:00",
+			"netChange":0.00531,
+			"percentChange":0.41,
+			"unitCode":"5",
+			"open":1.2984,
+			"high":1.30881,
+			"low":1.29648,
+			"close":1.30337,
+			"flag":"s",
+			"volume":195
+		}
+	]
+}

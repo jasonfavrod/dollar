@@ -1,0 +1,27 @@
+{
+	"status": {
+		"code":200,
+		"message":"Success."
+	},
+	"results": [
+		{
+			"symbol":"^GBPUSD",
+			"exchange":"FOREX",
+			"name":"British Pound\/U.S. Dollar",
+			"dayCode":"U",
+			"serverTimestamp":"2018-08-31T00:00:00-05:00",
+			"mode":"i",
+			"lastPrice":1.29551,
+			"tradeTimestamp":"2018-08-31T00:00:00-05:00",
+			"netChange":-0.00526,
+			"percentChange":-0.4,
+			"unitCode":"5",
+			"open":1.30059,
+			"high":1.30283,
+			"low":1.29465,
+			"close":1.29551,
+			"flag":"s",
+			"volume":218
+		}
+	]
+}

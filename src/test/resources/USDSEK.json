@@ -1,0 +1,27 @@
+{
+	"status": {
+		"code":200,
+		"message":"Success."
+	},
+	"results": [
+		{
+			"symbol": "^USDSEK",
+			"exchange":"FOREX",
+			"name":"U.S. Dollar\/Swedish Krona",
+			"dayCode":"U",
+			"serverTimestamp":"2018-08-31T00:00:00-05:00",
+			"mode":"i",
+			"lastPrice":9.12842,
+			"tradeTimestamp":"2018-08-31T00:00:00-05:00",
+			"netChange":0.01524,
+			"percentChange":0.17,
+			"unitCode":"5",
+			"open":9.1144,
+			"high":9.16305,
+			"low":9.09217,
+			"close":9.12842,
+			"flag":"s",
+			"volume":390
+		}
+	]
+}

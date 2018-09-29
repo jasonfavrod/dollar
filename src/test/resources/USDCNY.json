@@ -1,0 +1,27 @@
+{
+	"status": {
+		"code":200,
+		"message":"Success."
+	},
+	"results": [
+		{
+			"symbol":"^USDCNY",
+			"exchange":"FOREX",
+			"name":"U.S. Dollar\/Chinese Yuan",
+			"dayCode":"U",
+			"serverTimestamp":"2018-08-31T00:00:00-05:00",
+			"mode":"i",
+			"lastPrice":6.8318,
+			"tradeTimestamp":"2018-08-31T00:00:00-05:00",
+			"netChange":-0.0122,
+			"percentChange":-0.18,
+			"unitCode":"4",
+			"open":6.8437,
+			"high":6.8536,
+			"low":6.8257,
+			"close":6.8318,
+			"flag":"s",
+			"volume":168
+		}
+	]
+}
