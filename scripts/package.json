@@ -1,0 +1,17 @@
+{
+  "name": "dollar-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for the Dollar Component of the Econ Package",
+  "main": "index.js",
+  "scripts": {
+    "getUSDX": "node getUSDX.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Favrod <mail@jasonfavrod.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
