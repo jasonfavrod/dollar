@@ -1,7 +1,6 @@
 package com.jasonfavrod.dollar;
 
 import java.util.Properties;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 
@@ -61,7 +60,7 @@ public class ForexTest extends TestCase
 
 
     /**
-     * Rigourous Test :-)
+     * Rigorous Test :-)
      */
     public void testGetUSDX()
     {

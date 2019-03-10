@@ -2,7 +2,6 @@ package com.jasonfavrod.dollar;
 
 import org.json.JSONObject;
 import org.json.JSONArray;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 

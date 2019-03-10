@@ -2,9 +2,6 @@ package com.jasonfavrod.dollar;
 
 import java.util.Properties;
 import java.io.InputStream;
-import java.io.File;
-import org.json.JSONObject;
-import org.json.JSONArray;
 import java.sql.*;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -17,7 +14,7 @@ import java.io.IOException;
 
 
 /**
- * Collects price data relavent to the US Dollar and stores
+ * Collects price data relevant to the US Dollar and stores
  * that data for later analysis.
  *
  * @author Jason Favrod <mail@jasonfavrod.com>

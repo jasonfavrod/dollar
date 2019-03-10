@@ -1,7 +1,6 @@
 package com.jasonfavrod.dollar;
 
 import org.json.JSONObject;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
